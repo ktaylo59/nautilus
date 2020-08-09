@@ -135,3 +135,23 @@
   -webkit-font-smoothing: antialiased;
   border: 2px solid black !important;
 }
+
+.down {
+  align-items: flex-start;
+  background: url('http://nautil.us/assets/site/img/modules/issue-curtain/curtain-down.png?1364760745') no-repeat 50% 0;
+  position: absolute;
+  bottom: 40px;
+  width: 110px;
+  border: none;
+  text-align: center;
+  padding: 58px 0 0;
+  font: 700 12px/12px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+  text-transform: uppercase;
+  left: 50%;
+  margin-left: -55px;
+  /* margin-bottom: 2vh; */
+  letter-spacing: .12em;
+  cursor: pointer;
+  z-index: 2;
+  color: white;
+}
