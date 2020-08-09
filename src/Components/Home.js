@@ -13,6 +13,7 @@ function Home() {
         <span id = "homeSpan"> Issue 079</span>
         <h1 id = "homeHeader"> Catalysts</h1>
         <p id = "homeIntro"> Agents of change</p>
+        <a id = "homeLink"> READ MORE</a>
         </div>
         </div>
     )
