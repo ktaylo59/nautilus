@@ -10,6 +10,7 @@ function Home() {
                     <img src = {matches} alt="matches" />
         </div>
         <div className = "homeContent"></div>
+        <span id = "homeSpan"> Issue 079</span>
         </div>
         </div>
     )
