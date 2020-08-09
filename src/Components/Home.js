@@ -9,6 +9,7 @@ function Home() {
                 <div className = "homeBigImage">
                     <img src = {matches} alt="matches" />
         </div>
+        <div className = "homeContent"></div>
         </div>
         </div>
     )
