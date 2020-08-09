@@ -118,3 +118,20 @@
 #homeIssueLink a {
     text-decoration-thickness: 20px;
 }
+
+#homeButton {
+  font: 700 12px/1px "freight-sans-pro", Helvetica, Arial, sans-serif !important;
+  height: 37px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  text-align: center;
+  padding: 18px 12px !important;
+  margin: 0 auto 20px auto;
+  min-width: 87px;
+  display: inline-block;
+  color: #fff;
+  background: #000;
+  -webkit-font-smoothing: antialiased;
+  border: 2px solid black !important;
+}
