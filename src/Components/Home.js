@@ -11,6 +11,7 @@ function Home() {
         </div>
         <div className = "homeContent"></div>
         <span id = "homeSpan"> Issue 079</span>
+        <h1 id = "homeHeader"> Catalysts</h1>
         </div>
         </div>
     )
