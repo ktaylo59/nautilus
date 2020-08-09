@@ -100,3 +100,21 @@
   color: (rgb(255, 255, 255));
   opacity: .75;
 }
+
+#homeIssueLink {
+  font: 700 12px/24px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+  background-image: linear-gradient(to right, black 33%, rgba(255,255,255,0) 0%);
+  background-position: bottom;
+  background-size: 2px 1px ;
+  background-repeat: repeat-x;
+  
+  margin-top: .7vh;
+  margin-bottom: 3vh;
+}
+
+#homeIssueLink a {
+    text-decoration-thickness: 20px;
+}
