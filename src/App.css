@@ -75,3 +75,11 @@
 .homeBigImage img {
   width: 111vw;
 }
+
+#homeSpan {
+  font: 800 16px/16px "freight-sans-pro", Helvetica, Arial, Sans-Serif;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  margin: 0 0 8px;
+  display: inline-block;
+}
