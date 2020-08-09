@@ -49,7 +49,18 @@
   overflow-x: hidden;
 }
 
-
+.homeContent {
+  margin-right: 0;
+  margin-left: 0;
+  grid-column: 1/3;
+  grid-row: 1/2;
+  z-index: 2;
+  margin-top: 36vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
 
 .homeBigImage {
   display: flex;
